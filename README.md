@@ -17,6 +17,6 @@ note: this link will take you to a view-only Google doc, which you will have to 
 
 ## Other Links
 
-- Harvard Extension School resume and cover letter guide
-- UCI Paul Merage School of Business resume formatting guide
+- [Harvard Extension School resume and cover letter guide](https://drive.google.com/file/d/1Ej391KK-Ojbz-y0xLneZ8n06ESX5k3qM/view)
+- [UCI Paul Merage School of Business resume formatting guide](https://drive.google.com/file/d/1E9GNF_4S9bc6WMtpvHb00SisDAL1gxGh/view)
 - [ECC CS Club resume guide](https://docs.google.com/document/d/1IKMvok-UuUkfh5g38ZiFDC8sJDnKyN3TZ3npCQGZAdU/edit) (our club's summary of the two above plus more!)
