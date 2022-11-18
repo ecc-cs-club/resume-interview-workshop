@@ -1,5 +1,5 @@
 # ECC CS Club Resume & Interview workshop
-## Contains all resources mentioned in the resume and resource workshop!
+## Contains all resources mentioned in the resume and interview workshop!
 
 - Michael Scott's general resume template <br />
 https://docs.google.com/document/d/1DagwheJTnwYUY01yb_--h528Jur7f5Zu2RdGfFAhDMU/edit?usp=share_link <br />
